@@ -16,7 +16,7 @@ public class Digits {
         int num=sc.nextInt();
         Digits obj=new Digits();
         int result=obj.countDigits(num);
-        System.out.println("The total digits in the number is "+result);
+        System.out.println("The Total digits in the number is "+result);
 
     }
     
