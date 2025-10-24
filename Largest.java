@@ -21,7 +21,7 @@ public class Largest{
         }
         Largest obj=new Largest();
         int result=obj.largestElement(arr);
-        System.out.println("The Largest Element in an array is "+result);
+        System.out.println("The Largest Element in an array  "+result);
 
     }
 }
